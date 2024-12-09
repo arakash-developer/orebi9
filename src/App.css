@@ -1,0 +1,7 @@
+.categoryLi {
+    @apply border-b border-[#F0F0F0] text-sm md:text-base text-[#767676] font-normal md:pb-5 pb-2 cursor-pointer
+}
+
+.span {
+    @apply text-[#262626] cursor-pointer
+}
